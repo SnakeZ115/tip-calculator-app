@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.PNG)
 
 ### Links
 
@@ -42,7 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Vanilla JavaScrip
+- Vanilla JavaScript
 - Desktop-first workflow
 
 ### What I learned
